@@ -7,11 +7,11 @@
     ],
     "key":{
         "*":{
-            "item":"minecraft:jungle_planks"
+            "item":"minecraft:warped_planks"
         }
     },
     "result":{
-        "item":"minecraft:jungle_door",
+        "item":"minecraft:warped_door",
         "count": 1
     }
 }
