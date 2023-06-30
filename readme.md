@@ -30,31 +30,31 @@
 
 + 箱子可以使用原木合成
 
-  ![image-20230630214740901](pics\chest.png)
+  ![LFZSurvivalPack/pics/chest.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/chest.png)
 
 + 发射器可以使用投掷器+木棍+线合成
 
-  ![image-20230630215446020](pics\dispenser.png)
+  ![LFZSurvivalPack/pics/dispenser.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/dispenser.png)
 
 + 骨块可以使用骨头合成
 
-  ![image-20230630221000364](pics\bone_block.png)
+  ![LFZSurvivalPack/pics/bone_block.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/bone_block.png)
 
 + 三个木板可以合成一个门，不用每次合成三个了，铁门也是这样的(奇怪的要求)
 
-  ![image-20230630232843365](pics\door.png)
+  ![LFZSurvivalPack/pics/door.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/door.png)
 
 + 堆肥桶可以使用木板合成了
 
-  ![image-20230630221240084](pics\composeter.png)
+  ![LFZSurvivalPack/pics/composter.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/composter.png)
 
 + 讲台可以使用木板合成了
 
-  ![image-20230630221457157](pics\lectern.png)
+  ![LFZSurvivalPack/pics/lectern.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/lectern.png)
 
 + 收纳袋可以合成了
 
-  ![image-20230630221425349](pics\bundle.png)
+  ![LFZSurvivalPack/pics/bundle.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/bundle.png)
 
 # Renewability
 
@@ -64,32 +64,32 @@
 
 + 鞘翅
 
-  ![image-20230630231334950](pics\elytra.png)
+  ![LFZSurvivalPack/pics/elytra.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/elytra.png)
 
 + 海绵
 
-  ![image-20230630231403853](pics\sponge.png)
+  ![LFZSurvivalPack/pics/sponge.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/sponge.png)
 
 + 枯萎的灌木
 
   + 熔炼任意树苗
   + 需要使用烟熏炉
 
-  ![image-20230630232802702](pics\dead_bush.png)
+  ![LFZSurvivalPack/pics/dead_bush.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/dead_bush.png)
 
 + 龙首
 
-  ![image-20230630231537948](pics\dragon_head.png)
+  ![LFZSurvivalPack/pics/dragon_head.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/dragon_head.png)
 
 + 蜘蛛网
 
-  ![image-20230630231858885](pics\cobweb.png)
+  ![LFZSurvivalPack/pics/cobweb.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/cobweb.png)
 
 + 黏土块
 
   + 可以使用沙子和红沙
 
-  ![image-20230630231810244](pics\clay.png)
+  ![LFZSurvivalPack/pics/clay.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/clay.png)
 
   
 
@@ -97,31 +97,31 @@
 
   + 可以使用珊瑚或珊瑚扇
 
-  ![image-20230630231738255](pics\coral_block.png)
+  ![LFZSurvivalPack/pics/calcite.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/coral_block.png)
 
 + 方解石
 
-  ![image-20230630233156158](pics\calcite.png)
+  ![LFZSurvivalPack/pics/calcite.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/calcite.png)
 
 + 凝灰岩
 
-  ![image-20230630235013765](pics\tuff.png)
+  ![LFZSurvivalPack/pics/deepslate.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/tuff.png)
 
 + 深板岩
 
-  ![image-20230630233221374](pics\deepslate.png)
+  ![LFZSurvivalPack/pics/deepslate.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/deepslate.png)
 
 + 灵魂土
 
-  ![image-20230630233331014](pics\soul_soil.png)
+  ![LFZSurvivalPack/pics/soul_soil.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/soul_soil.png)
 
 + 镶金黑石
 
-  ![image-20230630233353557](pics\gilded_blackstone.png)
+  ![LFZSurvivalPack/pics/spore_blossom.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/gilded_blackstone.png)
 
 + 孢子花
 
-  ![image-20230630233422797](pics\spore_blossom.png)
+  ![LFZSurvivalPack/pics/spore_blossom.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/spore_blossom.png)
 
 
 
@@ -133,19 +133,19 @@
 
 + 西瓜片
 
-  ![image-20230630233854133](pics\melon_slice.png)
+  ![LFZSurvivalPack/pics/melon_slice.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/melon_slice.png)
 
 + 黏土球
 
-  ![image-20230630233834884](pics\clay_ball.png)
+  ![LFZSurvivalPack/pics/clay_ball.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/clay_ball.png)
 
 + 雪球
 
-  ![image-20230630233805046](pics\snowball.png)
+  ![LFZSurvivalPack/pics/snowball.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/snowball.png)
 
 + 紫水晶碎片
 
-  ![image-20230630233542141](pics\amethyst_shard.png)
+  ![LFZSurvivalPack/pics/amethyst_shard.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/amethyst_shard.png)
 
 # Abuse
 
@@ -155,18 +155,18 @@
 
 + 附魔金苹果：修改配方
 
-  ![image-20230630214346357](pics\enchanted_golden_apple.png)
+  ![LFZSurvivalPack/pics/enchanted_golden_apple.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/enchanted_golden_apple.png)
 
 + 钻石再生
 
   + 熔炼钻石制工具和装备
   + 需要使用高炉
 
-  ![image-20230630214130046](pics\diamond.png)
+  ![LFZSurvivalPack/pics/diamond.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/diamond.png)
 
 + 海洋之心
 
-  ![image-20230630214210869](pics\heart_of_the_sea.png)
+  ![LFZSurvivalPack/pics/heart_of_the_sea.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/heart_of_the_sea.png)
 
 
 
@@ -179,4 +179,4 @@
 + 末影人不再拿起棕色蘑菇/红色蘑菇/绯红菌/诡异菌了
   + 避免末地惨案
   
-    ![image-20230701000011960](pics\enderman_holdable.png)
+    ![LFZSurvivalPack/pics/enderman_holdable.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/enderman_holdable.png)
