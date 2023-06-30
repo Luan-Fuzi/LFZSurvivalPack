@@ -1,0 +1,27 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "#B#",
+        "#A#",
+        "* *"
+    ],
+    "key":{
+        "#":{
+            "item":"minecraft:phantom_membrane"
+        },
+        "*":{
+            "item":"minecraft:feather"
+        },
+        "A":{
+            "item":"minecraft:elytra"
+        },
+        "B":{
+            "item":"minecraft:end_crystal"
+        }
+        
+    },
+    "result":{
+        "item":"minecraft:elytra",
+        "count": 2
+    }
+}

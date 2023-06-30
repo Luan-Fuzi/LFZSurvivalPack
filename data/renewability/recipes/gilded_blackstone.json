@@ -1,0 +1,19 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        " # ",
+        "#A#",
+        " # "
+    ],
+    "key":{
+        "#":{
+            "item":"minecraft:gold_ingot"
+        },
+        "A":{
+            "item":"minecraft:blackstone"
+        }
+    },
+    "result":{
+        "item":"minecraft:gilded_blackstone"
+    }
+}

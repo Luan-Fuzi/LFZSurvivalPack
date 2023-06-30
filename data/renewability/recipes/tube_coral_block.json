@@ -1,0 +1,25 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "***",
+        "*A*",
+        "***"
+    ],
+    "key":{
+        "*": [
+      {
+        "item": "minecraft:tube_coral"
+      },
+      {
+        "item": "minecraft:tube_coral_fan"
+      }
+    ],
+        "A":{
+            "item":"minecraft:sponge"
+        }
+    },
+    "result":{
+        "item":"minecraft:tube_coral_block",
+        "count": 1
+    }
+}

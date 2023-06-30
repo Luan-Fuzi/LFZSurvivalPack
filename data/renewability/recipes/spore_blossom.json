@@ -1,0 +1,30 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "ABA",
+        "CDC",
+        " E "
+    ],
+    "key":{
+        "A":{
+            "item":"minecraft:flowering_azalea"
+        },
+        "B":{
+            "item":"minecraft:hanging_roots"
+        },
+        "C":{
+            "item":"minecraft:big_dripleaf"
+        },
+        "D":{
+            "item":"minecraft:sunflower"
+        },
+        "E":{
+            "item":"minecraft:glow_berries"
+        }
+        
+    },
+    "result":{
+        "item":"minecraft:spore_blossom",
+        "count": 1
+    }
+}

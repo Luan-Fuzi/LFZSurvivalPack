@@ -1,0 +1,25 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "***",
+        "*A*",
+        "***"
+    ],
+    "key":{
+        "*": [
+      {
+        "item": "minecraft:brain_coral"
+      },
+      {
+        "item": "minecraft:brain_coral_fan"
+      }
+    ],
+        "A":{
+            "item":"minecraft:sponge"
+        }
+    },
+    "result":{
+        "item":"minecraft:brain_coral_block",
+        "count": 1
+    }
+}

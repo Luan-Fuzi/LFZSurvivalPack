@@ -1,0 +1,21 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "###",
+        "#A#",
+        "###"
+    ],
+    "key":{
+        "#":{
+            "item":"minecraft:yellow_wool"
+        },
+        "A":{
+            "item":"minecraft:sponge"
+        }
+        
+    },
+    "result":{
+        "item":"minecraft:sponge",
+        "count": 2
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "#*#",
+        "*A*",
+        "#*#"
+    ],
+    "key":{
+        "#":{
+            "item":"minecraft:diamond_block"
+        },
+        "*":{
+            "item":"minecraft:scute"
+        },
+        "A":{
+            "item":"minecraft:heart_of_the_sea"
+        }
+    },
+    "result":{
+        "item":"minecraft:heart_of_the_sea",
+        "count": 2
+    }
+}
