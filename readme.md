@@ -89,12 +89,6 @@
 
   ![LFZSurvivalPack/pics/cobweb.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/cobweb.png)
 
-+ 黏土块
-
-  + 可以使用沙子、红沙、可疑的沙子(??)。
-
-  ![LFZSurvivalPack/pics/clay.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/clay.png)
-
 + 珊瑚块
 
   + 可以使用珊瑚或珊瑚扇。
@@ -134,6 +128,10 @@
   ![LFZSurvivalPack/pics/spore_blossom.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/amethyst_bud.png)
 
   ![LFZSurvivalPack/pics/spore_blossom.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/amethyst_cluster.png)
+
++ 深板岩圆石
+
+  ![LFZSurvivalPack/pics/spore_blossom.png at main · Luan-Fuzi/LFZSurvivalPack · GitHub](https://github.com/Luan-Fuzi/LFZSurvivalPack/blob/main/pics/cobbled_deepslate.png)
 
 # IngredientReturn
 
